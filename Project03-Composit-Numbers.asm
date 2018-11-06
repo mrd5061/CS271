@@ -21,7 +21,7 @@ rowMax = 10
 project	BYTE		"Composit Numbers", 0
 myname	BYTE		"by Meghan Dougherty", 0
 intro	BYTE		"Enter the number of composite numbers you would like to see. ", 0
-intro2	BYTE		"I’ll accept orders for up to 400 composites.", 0
+intro2	BYTE		"Iâ€™ll accept orders for up to 400 composites.", 0
 input1	BYTE		"Enter the number of composites you want to see.",0
 errorMSG	BYTE		"Number out of range. Try Again.", 0
 pageMSG	BYTE		"Press any key to view a new page.", 0
